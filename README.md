@@ -39,3 +39,6 @@ Bias provides an adjustable shift to the neuron's response. Proper bias adjustme
 - Google Colab
 - GitHub
 - Matplotlib
+- ## Graph
+
+![Effect of Bias on Neuron Output](Screenshot%202026-09-16%20231731.png)
